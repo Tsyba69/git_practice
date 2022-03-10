@@ -1,2 +1,2 @@
 # git_practice
-testibg git
+testing git
